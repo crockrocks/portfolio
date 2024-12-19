@@ -25,7 +25,7 @@ const projects = [
     title: 'Dog Breed Classifier',
     description: 'Image classification model to identify dog breeds with 90% accuracy.',
     technologies: ['TensorFlow', 'MobileNetV2', 'Python'],
-    githubLink: 'https://github.com/crockrocks/Dog-Vision',
+    githubLink: 'https://github.com/crockrocks/Dog_Breed_Classifier',
     liveLink: '#',
     image: '/assets/dog-breed-classification.webp',
     icon: Code
