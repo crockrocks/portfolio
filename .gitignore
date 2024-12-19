@@ -1,0 +1,32 @@
+# Node.js dependencies
+/node_modules/
+
+# Vite build output
+/dist/
+
+# Vite cache
+/.vite/
+
+# .env files (if you are using environment variables)
+.env
+.env.local
+.env.*.local
+
+# IDE and editor specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# npm package lock file (if you prefer to ignore it)
+# npm-debug.log
+# package-lock.json
+
+# TailwindCSS specific
+/.tailwind/
+
+# Operating system-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
